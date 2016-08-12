@@ -16,6 +16,7 @@ class ViewController: UIViewController,UIPickerViewDelegate {
     @IBOutlet weak var label2: UILabel!
     @IBOutlet weak var label3: UILabel!
     var mString : String?
+    var mDouble : Double?
     
     override func viewDidLoad() {
         super.viewDidLoad()
